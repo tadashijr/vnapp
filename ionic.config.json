@@ -1,6 +1,6 @@
 {
   "name": "vnapp",
-  "app_id": "",
+  "app_id": "ez2016",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
